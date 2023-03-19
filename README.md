@@ -1,7 +1,7 @@
 # homework1
 
 
-## HTML ELEMENTS
+# HTML ELEMENTS
 We found and implimented the correct semantic HTML elements.
 
 ## STRUCTURE 
