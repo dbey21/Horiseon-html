@@ -1,4 +1,4 @@
-# homework1
+# Horiseon-html
 
 HTML ELEMENTS
 We found and implimented the correct semantic HTML elements.
