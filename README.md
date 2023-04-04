@@ -14,3 +14,5 @@ We adjusted the heading attribute to it can follow in a logical order.
 
 TITLE
 We created a decriptive title for our webpage.
+
+![alt text](assets\images\Picture.png)
